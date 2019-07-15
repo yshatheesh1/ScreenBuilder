@@ -1,0 +1,26 @@
+body {
+    font-family: Lato;
+  }
+  
+  .finys_builder {
+  display:flex;
+  height: 100vh;
+  }
+  .finys_controls{
+    width:20%;
+    border: 1px solid #ccc;
+  }
+  .finys_designer{
+    width:80%;
+    border:1px solid #ccc;
+  }
+  .finys_jsonexplorer{
+    height:100vh;
+  }
+  .draggable{
+    background-color:black;
+    color:white;
+    margin:10px;
+    padding:10px;
+    cursor: pointer;
+  }
